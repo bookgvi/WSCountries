@@ -1,0 +1,12 @@
+com/example/App.class
+com/example/springsoap/gen/package-info.class
+com/example/repo/CountriesRepository.class
+com/example/springsoap/gen/GetCountryResponse.class
+com/example/springsoap/gen/GetCountryRequest.class
+com/example/WebService/WSConfig.class
+com/example/domain/Country.class
+com/example/wscontroller/CountriesController.class
+com/example/springsoap/gen/Country.class
+com/example/domain/Currency.class
+com/example/springsoap/gen/ObjectFactory.class
+com/example/springsoap/gen/Currency.class
